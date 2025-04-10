@@ -20,7 +20,7 @@ Este é um projeto de API REST desenvolvido em **Java com Spring Boot**. Ele per
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/SEU-USUARIO/api-produtos.git
+   git clone https://github.com/VitorAnderson/api-produtos.git
 
 2. Acesse a pasta do projeto:
 cd api-produtos
