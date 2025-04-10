@@ -21,3 +21,13 @@ Este é um projeto de API REST desenvolvido em **Java com Spring Boot**. Ele per
 1. Clone o repositório:
    ```sh
    git clone https://github.com/SEU-USUARIO/api-produtos.git
+
+2. Acesse a pasta do projeto:
+cd api-produtos
+
+3. Execute a aplicação no IntelliJ ou via terminal:
+   mvnw spring-boot:run
+
+4. Acesse a API em:
+   http://localhost:8080/produtos
+
